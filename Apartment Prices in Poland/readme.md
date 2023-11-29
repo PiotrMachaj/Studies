@@ -1,1 +1,1 @@
-This repo contains project I am currently doing for my studies - Machine Learning model to predict apartment price in Poland.
+This repo contains project I've recently done for my studies - Machine Learning model to predict apartment prices in Poland.
